@@ -1,0 +1,13 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Executar SIG-Saude",
+            "type": "cppdbg",
+            "request": "launch",
+            "program": "${workspaceFolder}/sigsaude.exe",
+            "cwd": "${workspaceFolder}",
+            "externalConsole": true
+        }
+    ]
+}
